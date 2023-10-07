@@ -18,7 +18,7 @@
 
 
 
-This repository contains the academic project exploring computer graphics for 3D rendering with Neural Radiance Fields (NeRF) and Structure from Motion (SfM) techniques. The project was conducted as part of the RBE-549 course during the spring semester of 2023. The official university course project page can be found [here](https://rbe549.github.io/spring2023/proj/p2/).
+This repository contains the academic project exploring computer graphics for 3D rendering with Neural Radiance Fields (NeRF) and Structure from Motion (SfM) techniques. 
 
 
 ## Table of Contents
@@ -30,7 +30,7 @@ This repository contains the academic project exploring computer graphics for 3D
 
 
 ## About The Project
-The project was conducted from February to March 2023 and focused on applying SfM and NeRF techniques on a dataset of five images of a glass building. The primary goals of the project were:
+The project focused on applying SfM and NeRF techniques on a dataset of five images of a glass building. The primary goals of the project were:
 
 Implement feature matching, epipolar geometry, RANSAC, visibility matrix, and bundle adjustment techniques for SfM.
 Develop a data loader, parser, network, and loss function for NeRF.
@@ -80,8 +80,6 @@ Run the project using the provided scripts or commands. Refer to the documentati
 2. Hartley, R. and Zisserman, A. "Multiple View Geometry in Computer Vision." Second Edition, Cambridge University Press, 2003. [Link](http://users.cecs.anu.edu.au/~hongdong/new5pt_cameraREady_ver_1.pdf)
 
 3. Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., Ng, R. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis." ACM Transactions on Graphics (TOG), Vol. 39, No. 2, Article No. 24, 2020. [Link](https://arxiv.org/abs/2003.08934)
-
-4. RBE-549 Course Project Page. [Link](https://rbe549.github.io/spring2023/proj/p2/)
 
 
 ## Tags
